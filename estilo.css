@@ -1,0 +1,39 @@
+h1 {color: white;
+background-color: rgb(122, 12, 111);
+border-radius: 7px solid green;
+}
+
+
+
+
+    * {
+        box-sizing: content-box;
+    }
+
+
+p {
+    color: blue;
+    font-size: 50px;
+}
+.p2 { text-align: center;
+    text-transform: uppercase;
+    text-shadow: 10px 30px 50px rgb(255, 106, 0);
+    font-family: "roboto";
+
+}
+a {
+    margin: 350px;
+}
+table {
+    border: 1px;color: #000;
+    background-color: blue;
+}
+th {
+    background-color: blanchedalmond;
+}
+textarea, select {
+    background-color: rgb(255, 255, 255);
+    font-size: 25px;
+    outline: 10;
+    border-color: blue;
+}

@@ -1,0 +1,36 @@
+:root {
+    --bg-color: #888181;
+    --bt-colo: #332525;
+    --font-size: 25px;
+}
+
+
+body {
+    background-color: var(--bg-color);
+    font-size: var(--font-size);
+}
+
+
+h1 {
+    background-color: aquamarine;
+    color: rgb(255, 51, 0);
+    width: calc(100% - 10px);
+    
+
+}
+
+
+    .p1 {
+        box-shadow:10px 10px 5px #8888 ;
+        margin-top: auto;
+        background-color: rgb(255, 217, 2);
+        border: 5px #8888;
+
+ 
+    }
+    
+
+    
+    
+
+    

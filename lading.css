@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+   
+    padding: 0px;
+    margin: 0px;
+
+}
+h1, p {
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+img {
+    height: 500px;
+    width: 450px;
+    align-content: center;
+    
+}
+.imagem {
+    align-content: center;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+}
+
+h3, p {
+    text-align: center;
+    color: white;
+}
+h2 {
+    background-color: orangered;
+}
+input {
+    background-color: greenyellow;
+    height: 100px;
+    width: 200px;
+    border-color: aqua;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
